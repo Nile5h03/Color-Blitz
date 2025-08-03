@@ -1,8 +1,8 @@
-
 # 🎨 Color-Blitz  
-**_“Match the pattern, master the blitz!”_**
+>**_“Match the pattern, master the blitz!”_**
 
-**Color-Blitz** is a fast-paced, interactive memory game inspired by the classic Simon Game.  
+## 🔍 About
+Color-Blitz** is a fast-paced, interactive memory game inspired by the classic Simon Game.  
 Watch the colors light up, remember the sequence, and tap them back in order.  
 With each round, the challenge grows — testing your focus, memory, and reflexes.
 
@@ -44,10 +44,3 @@ _(Replace with your actual GitHub Pages or Netlify link)_
 
 ---
 
-## 📁 Installation
-
-Clone the repository and open the `index.html` in your browser:
-
-```bash
-git clone https://github.com/yourusername/color-blitz.git
-cd color-blitz
