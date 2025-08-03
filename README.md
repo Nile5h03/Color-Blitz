@@ -39,7 +39,7 @@ Example:
 
 ## 🚀 Live Demo
 
-👉 [Try it here!](https://yourusername.github.io/color-blitz)  
+👉 [Try it here!](https://Nile5h03.github.io/color-blitz)  
 _(Replace with your actual GitHub Pages or Netlify link)_
 
 ---
