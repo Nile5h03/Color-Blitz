@@ -37,10 +37,5 @@ Example:
 
 ---
 
-## 🚀 Live Demo
 
-👉 [Try it here!](https://github.com/Nile5h03/Color-Blitz)
-_(Replace with your actual GitHub Pages or Netlify link)_
-
----
 
